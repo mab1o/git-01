@@ -51,6 +51,13 @@ func main() {
         "%": "217",     // peach
         "=": "39",      // blue
         ">": "196",     // red
+        "+": "226",     // yellow
+        ",": "17",      // deep blue
+        ".": "15",      // white
+        ";": "99",      // purple
+        "&": "214",     // orange
+        "'": "0",       // black
+        "*": "245",     // grey
     }
 
     // Import frames from data file
